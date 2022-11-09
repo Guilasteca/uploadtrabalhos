@@ -1,0 +1,50 @@
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('AR', 'Argentina', 2);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('AU', 'Australia', 3);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('BE', 'Belgium', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('BR', 'Brazil', 2);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('CA', 'Canada', 2);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('CH', 'Switzerland', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('CN', 'China', 3);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('DE', 'Germany', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('DK', 'Denmark', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('EG', 'Egypt', 4);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('FR', 'France', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('IL', 'Israel', 4);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('IN', 'India', 3);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('IT', 'Italy', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('JP', 'Japan', 3);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('KW', 'Kuwait', 4);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('ML', 'Malaysia', 3);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('MX', 'Mexico', 2);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('NG', 'Nigeria', 4);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('NL', 'Netherlands', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('SG', 'Singapore', 3);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('UK', 'United Kingdom', 1);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('US', 'United States of America', 2);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('ZM', 'Zambia', 4);
+INSERT INTO paises (id_pais, nome, id_regiao) VALUES
+('ZW', 'Zimbabwe', 4);
